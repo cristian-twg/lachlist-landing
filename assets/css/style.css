@@ -295,7 +295,7 @@ width: 100%;
 }
 .home_bg_solid{background:#fff}
 .hero-text h2 {
-color: #fff;
+color: #000;
 font-size: 48px;
 font-weight: 400;
 letter-spacing: 0;
@@ -324,7 +324,7 @@ padding-top:0px;
     }
 }
 .hero-text p {
-    color: #fff;
+    color: #000;
 
 }
 .home_btn{
@@ -342,7 +342,7 @@ margin: 0 10px 15px;
 transition: all 0.3s ease 0s;
 }
 .home_btn a:hover{
-background:#fff;color:#333;
+background:#27AAE1;color:#333;
 }
 .home_btn a i{
 font-size: 20px;
