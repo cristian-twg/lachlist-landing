@@ -301,7 +301,6 @@ font-weight: 400;
 letter-spacing: 0;
 line-height: 64px;
 padding-top: 200px;
-text-transform: capitalize;
 }
 @media only screen and (max-width:768px) { 
 .hero-text h2 {
